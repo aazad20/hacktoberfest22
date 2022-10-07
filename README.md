@@ -8,8 +8,9 @@
 ![image](https://user-images.githubusercontent.com/63469455/194538819-bb8d0736-ccb0-4e6e-b83d-fae0e983fd70.png)
 
 2. Clone your forked repo and upload on the forked repository.
-<span style="color:red">Important</span>
-Make a folder 📂 of your project and upload that folder only. 
+
+# Note: Make a folder 📂 of your project and upload that folder only.
+
 ![image](https://user-images.githubusercontent.com/63469455/194539903-75b38527-6a98-498d-b81c-5aa2bb64366d.png)
 
 3. Create a Pull Request.
