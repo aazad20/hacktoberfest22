@@ -1,4 +1,4 @@
-# It is a repository for hacktoctober 2022.
+# It is a repository for hacktober 2022.
 ## Here you can upload your projects, that you want to share. It can be on any project, on any topic, using any technology. 
 ## If your project is not completed you can still upload it and ask for help.
 ## Your PR's will be counted towards the hacktoberfest 2022.
